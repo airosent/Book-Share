@@ -1,1 +1,1 @@
-# Book-Share
+Book notes sharing marketplace using Flask.
